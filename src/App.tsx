@@ -66,6 +66,7 @@ const SearchSelect = styled<React.SFC<SearchSelectProps>>(
     </select>
   )
 )`
+  -moz-appearance: none;
   background: #252525;
   width: 12rem;
   font-size: 1.25rem;
