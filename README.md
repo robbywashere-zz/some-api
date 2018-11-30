@@ -1,5 +1,3 @@
-# NEWS API
-
 ## Demo 
 
 https://gracious-ritchie-a76a6b.netlify.com
